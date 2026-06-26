@@ -1,0 +1,6 @@
+{
+  "name": "BiteMarket",
+  "description": "Foodie and Vendor marketplace application with robust role-based authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
